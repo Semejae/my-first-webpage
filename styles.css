@@ -1,0 +1,18 @@
+h1 {
+  color: purple;
+  text-align: center;
+}
+p1 {
+  color: black;
+  text-align: center;
+}
+ul {
+  color: red;
+  text-align: left;
+  line-height: 1.88889;
+}
+body {
+  font-family: 75% georgia,sans-serif;
+  line-height: 1.88889;
+  background: aqua;
+}
